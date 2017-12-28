@@ -17,9 +17,9 @@ Folgende Variablen müssen angepasst werden:
 Viel Spaß!
 
 ## Weitere Infos zu TR-064 
-http://fritz.box:49000/tr64desc.xml
-https://wiki.fhem.de/wiki/FRITZBOX#TR-064
-https://avm.de/service/schnittstellen/
+* http://fritz.box:49000/tr64desc.xml
+* https://wiki.fhem.de/wiki/FRITZBOX#TR-064
+* https://avm.de/service/schnittstellen/
 
 ## Beispiele
 
