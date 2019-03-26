@@ -11,7 +11,7 @@ Folgende Variablen müssen angepasst werden:
 | Variable | Erklärung |
 |---|---|
 | `IPS` | IP-Adressen der AVM FRITZ! Geräte. Können mehrere sein, alle Geräte müssen aber das gleiche Passwort haben. |
-| `FRITZUSER` | Username der FRITZ! Weboberfläche. Es empfiehlt sich einen dedizierten `restart`-Benutzer anzulegen. In einigen Fällen muss hier "root" eingetragen werden, wenn kein Username zum Login notwendig ist. |
+| `FRITZUSER` | Username der FRITZ! Weboberfläche. Es empfiehlt sich einen dedizierten `restart`-Benutzer anzulegen. In einigen Fällen kann hier `root` eingetragen werden, wenn kein Username zum Login notwendig ist. |
 | `FRITZPW` | Passwort der FRITZ! Weboberfläche. |
 
 Viel Spaß!
