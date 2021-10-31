@@ -29,7 +29,7 @@ logfile=logfile.log
 date=`date +"%d.%m.%Y %H:%M:%S"`
 
 ###====###
-# Script #
+# Skript #
 ###====###
 
 location="/upnp/control/deviceconfig"
